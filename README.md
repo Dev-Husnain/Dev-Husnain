@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile Apps(Android and Ios) develpment.
 - Java Developer
 - Flutter (dart) developer
+- Kotlin Developer
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me ✔
 - Email: hussnain.personal@gmail.com
