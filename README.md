@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hussnain Mehdi
 - 👀 I’m interested in Mobile Apps(Android and Ios) develpment.
 - Java Developer
-- Flutter (dart) developer
+- Jetpack Compose developer
 - Kotlin Developer
 - 📫 How to reach me ✔
 - Email: hussnain.personal@gmail.com
